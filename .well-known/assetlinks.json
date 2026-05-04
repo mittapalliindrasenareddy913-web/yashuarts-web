@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.saicollection.user",
+    "sha256_cert_fingerprints": [
+      "1E:76:8D:EA:A9:99:4C:74:0A:9A:DE:C6:42:D4:E5:B1:0F:8B:C4:F5:90:8F:65:8D:63:C8:9F:49:04:05:9F:D5"
+    ]
+  }
+}]
